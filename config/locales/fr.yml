@@ -1,0 +1,4 @@
+fr:
+  hello: "Hello world"
+  checkout_allowed_errors:
+    minimum_value: "Le minimum de commande de 20 euro n'est pas atteint"
